@@ -1,0 +1,3 @@
+# Teams
+
+We have 5 teams...

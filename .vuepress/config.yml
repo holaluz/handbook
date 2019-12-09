@@ -1,0 +1,16 @@
+title: "HolaluzEng Handbook"
+description: "How we work at Holaluz Engineering"
+themeConfig:
+  lastUpdated: true
+  sidebar:
+    - "/"
+    - title: "Organization"
+      path: "/organization/"
+      children:
+        - "/organization/"
+        - "/organization/teams"
+    - title: "Operative"
+      path: "/operative/"
+      children:
+        - "/operative/"
+    - "CONTRIBUTING"
