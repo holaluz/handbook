@@ -1,6 +1,7 @@
-title: "HolaluzEng Handbook"
+title: "Engineering Handbook"
 description: "How we work at Holaluz Engineering"
 themeConfig:
+  logo: "/holaluz.png"
   lastUpdated: true
   sidebar:
     - "/"
