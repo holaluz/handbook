@@ -16,7 +16,7 @@ jobs:
       - name: Deploy pages
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.HANDBOOK_DEPLOY_TMP_ANGEL }}
           BASE_BRANCH: master
           BRANCH: gh-pages
           FOLDER: .vuepress/dist
