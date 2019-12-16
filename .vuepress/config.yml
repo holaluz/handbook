@@ -1,3 +1,4 @@
+base: "/handbook/"
 title: "Engineering Handbook"
 description: "How we work at Holaluz Engineering"
 themeConfig:
