@@ -59,19 +59,19 @@ SU team members we help tech. dept people to develop in an efficient way applica
 
 * % Applications Uptime
 * Mean time to recovery
-* AWS costs / # customers
+* [AWS costs](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1&fullscreen&panelId=16) / # customers
 * % Incidents detected by users / automatically
 
 ### Developer Experience
 
-* % Failed deploys
-* Daily Deploys
-* Pipeline running time
+* [% Failed deploys](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1&fullscreen&panelId=11)
+* [Daily Deploys](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1&fullscreen&panelId=12)
+* [Pipeline running time](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1&fullscreen&panelId=10)
 * "Tech team hapiness" (qualitative)
 
 ### Employee Experience
 
-* Number of reported bugs/issues in Jira
-* Mean resolution time of this bugs/issues
+* [Number of reported bugs/issues in Jira](https://holaluzcom.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10837)
+* [Mean resolution time of this bugs/issues](https://holaluzcom.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10837)
 * Number of improvement projects we have leaded
 * General satisfaction with Tech. service (qualitative)
