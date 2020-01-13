@@ -75,3 +75,10 @@ SU team members we help tech. dept people to develop in an efficient way applica
 * [Mean resolution time of this bugs/issues](https://holaluzcom.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10837)
 * Number of improvement projects we have leaded
 * General satisfaction with Tech. service (qualitative)
+
+### Contact
+
+* Via Slack, public channel: #helpdesk or #tech-infrastructure
+* Via Slack, private channel: #infra-private
+* Via mail: infrastructure@holaluz.com
+* Via ticket manager: http://helpdesk.holaofi
