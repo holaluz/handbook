@@ -16,7 +16,7 @@
 
 - To align themselves with the CTO and other EMs and make sure to transmit to their team a shared direction and strategy, unified and uniform. Each EM should apply the most suitable techniques for each context and situation, but the strategy and the vision are common.
 
-- Ensure that the team have and know their domain and objectives, and have the tools to be sure that it's working and evolving as expected. It includes, but is not limited to, server monitoring, data governance, business functionalities, repositories, alerts, operative maintenance, and security, which they are responsible for.
+- To ensure that the team have and know their domain and objectives, and have the tools to be sure that it's working and evolving as expected. It includes, but is not limited to, server monitoring, data governance, business functionalities, repositories, alerts, operative maintenance, and security, which they are responsible for.
 
 - To have experience in developing the IC job and abstraction capability enough to guide and technically challenge the team. To take part in technical decisions and help tiebreaking technical disagreements, besides not necessarily being the technical expert of the team.
 
