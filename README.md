@@ -4,7 +4,7 @@ At Holaluz we aim to be as transparent as posible.
 
 This handbook helps Holaluz Engineering team to work with the [open by default](https://en.wikipedia.org/wiki/Open_by_default) mindset.
 
-All the information explaining the way we work it's here, and if find that something is missing, all PRs are welcome :blush:
+All the information explaining the way we work it's here, and if you find that something is missing, all PRs are welcome :blush:
 
 
 ## Vision
