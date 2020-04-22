@@ -20,6 +20,6 @@
 
 - To have experience in developing the IC job and abstraction capability enough to guide and technically challenge the team. To take part in technical decisions and help tiebreaking technical disagreements, besides not necessarily being the technical expert of the team.
 
-- To be very involved in the day-to-day of their team. To actively participate in the work dynamics: plannings, pairings, check PRs, etc., being that their primary workload and keeping enough time to do a good follow-up of the IC and strategical work with the EMT. The balance between both activities might change depending on team needs, but none of them should go under 25% of work time in any case.
+- To be very involved in the day-to-day of their team. To actively participate in the work dynamics: plannings, pairings, check PRs, etc., being that their primary workload and keeping enough time to do a good follow-up of the IC and strategical work with the [EMT](../teams/engineering_management_team.md). The balance between both activities might change depending on team needs, but none of them should go under 25% of work time in any case.
 
 - We use a [delegation board](https://docs.google.com/spreadsheets/d/1qPaeVO3RSkNdQ9tycSKE3H-oyk-bIciDu-_hw8O8UW0/edit?usp=sharing) to have a precise and shared vision of the delegation levels in specific responsibilities between the CTO and each EM.
