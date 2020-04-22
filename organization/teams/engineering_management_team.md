@@ -2,17 +2,17 @@
 
 ## Responsibilities
 
-- To discuss the strategy proposed by the CTO until reach fully alignement and the best posible version of that strategy.
+- To discuss the strategy proposed by the CTO to reach a full alignment and the best possible version of that strategy.
 
-- To define together with the CTO and the business, the OKRs/goals/milestones to be achieved in a determined period by the engineering area.
+- To define with CTO and business people the OKRs/goals/milestones to achieve in a period by the engineering area.
 
-- To manage hiring pipelines. The open positions are common for the whole engineering area. We do not compete between teams for hiring, we collaborate and bring to Holaluz the best people for the right team and in the right moment. In order to clarify, the possible scenarios are:
+- To manage hiring pipelines. The whole engineering area shares the same open positions. We do not compete between teams for hires. Instead, we collaborate to bring in the best people for the right team at the right moment. To clarify, the possible scenarios are:
 
-	- As EM, I don't need any more people to my team => I help the EMT to filter applicants, push for the experts in my team to help checking technical tests, etc.
+  - As [EM](../roles/engineering_manager_role.md), I don't need any more people to my team => I help the EMT to filter applicants, and to request the experts in my team to help checking technical tests, etc.
 
-	- As EM, I need people for my team and exists an opened position => same as above, but more actively, and collaborate with the rest of EMs involved into taking the best decision for Holaluz.
+  - As EM, I need people for my team and exists an open position => same as above, but more actively, and collaborate with the rest of EMs involved in making the best decision for Holaluz.
 
-	- As EM, I need people for my team and there's no opened job position for the required expertise => I actively design the position requirements and with the agreement of the EMT, the CTO and Holaluz People team, we open it.
+  - As EM, I need people for my team, and there's no open job position for the required expertise => I actively design the position requirements and with the agreement of the EMT, the CTO, and Holaluz People team, we open it.
 
 - To design and execute continuous improvement initiatives that affect more than one team: 360º feedback, general learning processes, growth framework, public handbook, etc.
 
@@ -20,9 +20,9 @@
 
 ## Liturgies
 
-That team have a weekly meeting, called the Engineering Managers Weekly, with the following purpose:
+The team has a weekly meeting, called the Engineering Managers Weekly, with the following purpose:
 
-- Align the management shared strategy, in the short, mid and long term.
-- Assist forum for EMs, to help each other with doubts or tough to handle situations.
-- Solve issues between teams that we were not able to fix in the day-to-day or by asincronous ways.
-- Meeting where the CTO explains sensitive information that affects to the EMs or that due to its nature, we think it needs to be given to the team with an extra empathy. The rest of general information is shared by written ways, to the whole engineering people by default.
+- To align the management shared strategy, in the short, mid and long term.
+- To assist forum for EMs, to help each other with doubts or tough to handle situations.
+- To solve issues between teams that weren't fixable in the day-to-day or asynchronously.
+- For the CTO to explain sensitive information affecting EMs, or information that, given its nature, needs to be shared with the team with an extra dose of empathy. Other information is shared by written means to the whole engineering people by default.
