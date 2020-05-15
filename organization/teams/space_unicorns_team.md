@@ -4,11 +4,9 @@
 
 SU team mission is to help Holaluz to use technology to solve problems in an efficient way and to help that clients could use Holaluz services with confidence.
 
-
 ## Vision
 
 SU team members we help tech. dept people to develop in an efficient way applications that provide secure good services without interruptions to our customers/collaborators. We help, too, all the Holaluz employees to implement good technological solutions to their problems.
-
 
 ## Areas of work
 
@@ -19,7 +17,6 @@ SU team members we help tech. dept people to develop in an efficient way applica
 * At Holaluz we have our systems, network, data and applications monitorized, secure, encrypted and well backuped.
 * Holaluz employees have and use necessary tools in order to easily work in a secure, efficient and reliable way (password management, communications, etc.)
 * Holaluz development teams have the required tools and knowledge to adopt good security practices in they day to day work (pipelines, secure design, good practices, etc.)
-
 
 ### Cyberhealth
 
@@ -47,38 +44,36 @@ SU team members we help tech. dept people to develop in an efficient way applica
 
 ## [KPIs](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1)
 
-### Security
+### Security KPI
 
 * Time Between Security Incidents
 * Security Incidents Detection Time
 * % of pipelines with security controls
 * % of employees who have receive security training.
 
-
-### Cyberhealth
+### Cyberhealth KPI
 
 * % Applications Uptime
 * Mean time to recovery
 * [AWS costs](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1&fullscreen&panelId=16) / # customers
 * % Incidents detected by users / automatically
 
-### Developer Experience
+### Developer Experience KPI
 
 * [% Failed deploys](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1&fullscreen&panelId=11)
 * [Daily Deploys](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1&fullscreen&panelId=12)
 * [Pipeline running time](https://grafana.clidom.es/d/t-GVx1BWk/space-unicorns-kpis?orgId=1&fullscreen&panelId=10)
-* "Tech team hapiness" (qualitative)
+* [Tech team hapiness](https://docs.google.com/spreadsheets/d/18_g2nNJDkGsu5i63UDIW1gaEtcVx3j9qf5olfS72ixc/edit?usp=sharing)
 
-### Employee Experience
+### Employee Experience KPI
 
 * [Number of reported bugs/issues in Jira](https://holaluzcom.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10837)
 * [Mean resolution time of this bugs/issues](https://holaluzcom.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10837)
 * Number of improvement projects we have leaded
-* General satisfaction with Tech. service (qualitative)
+* [General satisfaction with Tech. service](https://docs.google.com/spreadsheets/d/1EqfeKmOJKmQqlrPFddGT2mMOD1VZI-FtWr7VE4QEne8/edit?usp=sharing)
 
 ### Contact
 
-* Via Slack, public channel: #helpdesk or #tech-infrastructure
-* Via Slack, private channel: #infra-private
+* Via Slack, public channel: #helpdesk or #eng-space-unicorns
 * Via mail: infrastructure@holaluz.com
-* Via ticket manager: http://helpdesk.holaofi
+* Via [ticket manager](http://helpdesk.holaofi)
