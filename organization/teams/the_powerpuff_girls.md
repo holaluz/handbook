@@ -27,7 +27,7 @@ You can check what we are working on in each quarter of the year at the followin
 > **Primary focus** - Invocing: Invoice communications extraction from ERP  
 > - Goal 1: extract DHS product invoice printing/mailing from Ekon (to KillBill)  
 > - Goal 2: extract "Sin Sorpresas" product invoice printing/mailing from Ekon (to KillBill)
-> - Goal 3: extract pre-invoice printing/mailing from Ekon (to KillBill)
+> - NOT CONFIRMED Goal 3: extract pre-invoice printing/mailing from Ekon (to KillBill)
 
 > **Secondary focus** - Ekon → NetSuite migration
 > - Goal 1: Analyze (RSM BRD) & refine Ekon -> NetSuite migration
@@ -36,7 +36,7 @@ You can check what we are working on in each quarter of the year at the followin
 > **Primary focus** - Ekon → NetSuite migration - Phase I  
 > - Goal 1: Automation of opening balances loading
 > - Goal 2: Extract remittance collection/payment from Ekon
-> - Goal 3: Analytical accounting, first draft
+> - NOT CONFIRMED Goal 3: Analytical accounting, first draft
 
 ** always WIP and evolving
 
