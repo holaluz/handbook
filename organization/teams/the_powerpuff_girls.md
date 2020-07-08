@@ -12,8 +12,7 @@ So, looking towards that vision, The PowerPuff Girls mission is to **drive and h
 
 Our **main goal** is to provide the teams at HolaLuz with new strategies and tools to enable current and future systems to be scalable, robust and able to support change with the flexibility the business needs. We seek to build the bridges we are lacking to take our systems out of the model that has brought us to the present and start building the ones that should make us shine in the future.
 
-As a team whose purpose is changing over time (as it is aligned with achieving system scalability to synchronize with business needs) 
-We work in cycles of **3 to 6 month of strategic challenges** which are **guided by 1-3 different goals each month** we try to build this strategy and objectives aligned with those of the prupose-teams and in collaboration with them, so that in the medium term they can make them their own.
+As a team whose purpose is changing over time (as it is aligned with achieving system scalability to synchronize with business needs), we work in cycles of **3 to 6 month of strategic challenges** which are **guided by 1-3 different goals each month** we try to build this strategy and objectives aligned with those of the purpose teams and in collaboration with them, so that in the medium term they can make them their own.
 
 ![TPPG Strategy](./img/tppg_strategy.png)  
 
