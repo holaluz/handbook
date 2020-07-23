@@ -6,7 +6,7 @@ Platform team mission is to help Holaluz development teams to reach production i
 
 ## Vision
 
-SU team members we help tech. dept people to develop in an efficient way applications that provide secure good services without interruptions to our customers/collaborators.
+Platform team members we help Technology team people to develop in an efficient way applications that provide secure good services without interruptions to our customers/collaborators.
 
 ## Areas of work
 
