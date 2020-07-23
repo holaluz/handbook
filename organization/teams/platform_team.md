@@ -2,7 +2,7 @@
 
 ## Mission
 
-Platform team mission is to help Holaluz development teams to reach development in a safe, fast and scalable way.
+Platform team mission is to help Holaluz development teams to reach production in a safe, fast and scalable way.
 
 ## Vision
 
