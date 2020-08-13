@@ -16,7 +16,7 @@ As a **reference of your role** we expect you act as an expert of your engineeri
 
     * Lead operative business support in order to guaranty business key processes by:
       * Increasing efficiency and enabling the automation or simplification of processes.
-      * Maintenance of reliable information systems  
+      * Maintenance of reliable information systems.
       * Bugfixing non right functionalities and finding the best solution for more complex issues.
       * Lead outages remediation,resolution and prevention via postmortems, improving monitoring, proactive testing, etc.
 
@@ -30,16 +30,16 @@ As a **reference of your role** we expect you act as an expert of your engineeri
   * **Be eager to learn**
     * Actively pursue improving engineering skills, including but not limited to problem-solving, writing readable/testable/efficient code, mastering technology in our stack, and learning to anticipate scaling issues.
     * Participate in the inner Holaluz trainings: Show and Tell, Lean Code, Book Club, University…
-    * Demonstrate the ability to learn from mistakes, acting as consequence
+    * Demonstrate the ability to learn from mistakes, acting as consequence.
 
   * **Impact on your role**
-    * DContribute to Holaluz technology and software stack by leading technology for own discipline best practices, being able to have a cross functional understanding and technological impact.
-    * DProactively monitor the status of the processes and systems in production related to the owned domain, from the business and technical perspective, and perform the necessary actions to fix outages, errors (old ones or recently deployed), etc.
-    * DReview other people job (code, docs, proposals, etc.) and proactively provide constructive feedback.
-    * DInvolve and get others involved in the technology community (conferences, meetups, blog posts, open-source projects, etc) with the aim of spread brave and innovative culture and Holaluz reputation.
-    * DCo-lead hiring processes  providing thoughtful evaluations and feedback.
-    * DMonitor the outcomes of the team’s actions to learn from mistakes and replicate successes.
-    * DGenerate support for a/team decision.
+    * Contribute to Holaluz technology and software stack by leading technology for own discipline best practices, being able to have a cross functional understanding and technological impact.
+    * Proactively monitor the status of the processes and systems in production related to the owned domain, from the business and technical perspective, and perform the necessary actions to fix outages, errors (old ones or recently deployed), etc.
+    * Review other people job (code, docs, proposals, etc.) and proactively provide constructive feedback.
+    * Involve and get others involved in the technology community (conferences, meetups, blog posts, open-source projects, etc) with the aim of spread brave and innovative culture and Holaluz reputation.
+    * Co-lead hiring processes  providing thoughtful evaluations and feedback.
+    * Monitor the outcomes of the team’s actions to learn from mistakes and replicate successes.
+    * Generate support for a/team decision.
 
   * **Spread your knowledge**
     * Be a mentor for other people with less experience or from other disciplines.
