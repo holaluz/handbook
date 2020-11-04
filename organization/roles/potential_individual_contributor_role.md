@@ -2,7 +2,7 @@
 
 ## Job Purpose (Why HL needs your role)
 
-As a **high potential** software developer, we expect you to work closely with your mentor and team being greedy for receiving guidance, learning and growth. You will contribute through all the software development journey, focusing on work within your purpose and specialization team in improving your technical skills, taking ownership of your learning and tasks, optimizing and performing the standards and well-defined assignments and solving routine problems.
+As a **high potential** software developer, we expect you to work closely with your mentor and team and to be eager to receive guidance, and learning and growth support. You will contribute through all the software development journey, focusing on work within your purpose and specialization team in improving your technical skills, taking ownership of your learning and tasks, optimizing and performing the standards and well-defined assignments and solving routine problems.
 
   * **Work within your purpose and discipline team**
     * Communicate well with all members. Proactively participate in collective working sessions, and communicate appropriately with all holaluz people. 
