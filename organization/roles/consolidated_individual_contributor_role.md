@@ -26,7 +26,7 @@ As a contributor through **your role consolidation**, we expect you to continue 
     * According to projects complexity, document processes by drafting manuals or/and guides with the aim of describe projects, steps required and tasks need to be followed.
 
   * **Be eager to learn**
-    * Actively pursue improving and consolidating higher engineering skills  (including but not limited writing readable/testable/efficient code, mastering technology in our stack), through guidance and mentorship, or though day-to-day work as; pairing with more senior people, bots reviews, pulls request and code reviews from more experienced developers.
+    * Actively pursue improving and consolidating higher engineering skills  (including but not limited writing readable/testable/efficient code, mastering technology in our stack), through guidance and mentorship, or though your daily work as; pairing with the other developers,  pulls request and code reviews from your developer peers.
     * Develop innovation and problem-solving approach for new development or solutions, exercising own judgement from analyzing the existing practices or guidelines and common standards
     * Participate in the inner Holaluz trainings: Show and Tell, Lean Code, Book Club, University...
     * Demonstrate the ability to learn from feedback, but also from your proactivity and mistakes
