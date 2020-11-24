@@ -7,7 +7,6 @@ We are organized in multidisciplinary teams around a business value chain. Those
 Current teams are:
 
 - [Space Unicorns](./teams/space_unicorns_team.md)
-- [The PowerPuff Girls](./teams/the_powerpuff_girls.md)
 - Direct Sales
 - Indirect Sales
 - Solar
